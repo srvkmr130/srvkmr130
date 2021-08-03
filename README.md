@@ -21,5 +21,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: srvkmr130@gmail.com
 - ⚡ Fun fact: I'm a Ninja Coder
 
+### GitHub stats
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvkmr130&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvkmr130&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
