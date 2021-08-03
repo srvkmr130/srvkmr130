@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as SDE1 at Odessa Technologies.
+- 🌱 I’m currently learning MERN stack.
+- 💬 Ask me about REACT
+- 📫 How to reach me: srvkmr130@gmail.com
+- ⚡ Fun fact: I'm a Ninja Coder
