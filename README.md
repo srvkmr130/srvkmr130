@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as SDE1 at Odessa Technologies.
 - 🌱 I’m currently learning MERN stack.
+- 👯 I’m looking to collaborate on Data Science and MERN stack projects.
 - 💬 Ask me about REACT
 - 📫 How to reach me: srvkmr130@gmail.com
 - ⚡ Fun fact: I'm a Ninja Coder
+
+
+
