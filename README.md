@@ -1,4 +1,4 @@
-### Hi there , I am Saurabh (nerdGeek)👋
+### 👋 Hi there , I am Saurabh (nerdGeek 🇮🇳)
 ![](https://komarev.com/ghpvc/?username=your-github-srvkmr130&color=blueviolet)
 <!--
 **srvkmr130/srvkmr130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 </p>
 
 
-### GitHub stats
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvkmr130&show_icons=true)
+## 🧮 GitHub stats :
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvkmr130&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvkmr130&show_icons=true)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvkmr130&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
