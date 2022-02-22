@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as SDE1 at Odessa Technologies.
-- 🌱 I’m currently learning MERN stack.
+- 🔭 Currently Building Apps at GeekyAnts. (Ex TA at Coding Ninjas + Ex Odessan)
+- 🌱 I’m currently learning more and more tech.
 - 👯 I’m looking to collaborate on Data Science and MERN stack projects.
-- 💬 Ask me about REACT
+- 💬 Ask me about REACT.
 - 📫 How to reach me: srvkmr130@gmail.com
 - ⚡ Fun fact: I'm a Ninja Coder
 
