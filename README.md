@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Currently Building Apps at GeekyAnts. (Ex TA at Coding Ninjas + Ex Odessan)
 - 🌱 I’m currently learning more and more tech.
 - 👯 I’m looking to collaborate on Data Science and MERN stack projects.
-- 💬 Ask me about REACT.
+- 💬 Secondary Account - https://github.com/saurabhkumar130
 - 📫 How to reach me: srvkmr130@gmail.com
 - ⚡ Fun fact: I'm a Ninja Coder
 
