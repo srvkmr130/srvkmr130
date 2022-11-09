@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🧑‍💻 Official portfolio - https://geekyants.com/saurabhkumar/
 - 📫 How to reach me: 
      - Email : srvkmr130@gmail.com
+     - Outlook : srvkmr130@outlook.com
      - Medium : https://medium.com/@srvkmr130
 - ⚡ Fun fact: I'm a Ninja Coder
 
