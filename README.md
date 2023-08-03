@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Currently Building Apps at GeekyAnts. (Ex TA at Coding Ninjas + Ex Odessan)
-- 🌱 I’m currently learning more and more tech.
-- 👯 I’m looking to collaborate on Data Science and MERN stack projects.
+- 🌱 I’m currently working as a React Native developer for a US-based company that is 🚀 focused on the development and adaptation of digital technology and manifesting it into real-world products for emergency 🚨 and security services 🔒.
 - 💬 Secondary Account - https://github.com/saurabhkumar130
-- 💬 Social Media Handle - srvkmr130 (Instagram , Twitter , LinkedIn , Medium )
+- 💬 Social Media Handle - srvkmr130 (Instagram, Twitter, LinkedIn, Medium, Discord)
 - 🧑‍💻 Official portfolio - https://geekyants.com/saurabhkumar/
 - 📫 How to reach me: 
-     - Email : srvkmr130@gmail.com
-     - Outlook : srvkmr130@outlook.com
-     - Medium : https://medium.com/@srvkmr130
+     - Email: srvkmr130@gmail.com
+     - Outlook: srvkmr130@outlook.com
+     - Medium: https://medium.com/@srvkmr130
 - ⚡ Fun fact: I'm a Ninja Coder
 
 ## 💻 Languages and Tools:
