@@ -1,5 +1,10 @@
 ### 👋 Hi there , I am [Saurabh](https://srvkmr130.github.io/my_resume/) (nerdGeek 🇮🇳) 
 ![](https://komarev.com/ghpvc/?username=your-github-srvkmr130&color=blueviolet)
+
+##### Highly self-driven software engineer proficient in architecting and developing cutting-edge mobile and web applications using the latest tech stacks. Passionately committed to continuous exploration of emerging technologies, incessant skill enhancement, and staying abreast of industry trends.
+##### Proficient in MERN stack development, active tech blogger, and ardent advocate for the possibilities of data science.
+##### Beyond the realm of code, I indulge my passion for cinema, engage in market analysis, and embark on exciting journeys around the globe.
+
 <!--
 **srvkmr130/srvkmr130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
