@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 GeekyAnts | Coding Ninjas | Odessa 
+- 🌱 GeekyAnts <- Coding Ninjas <- Odessa 
 - 🔭 I’m currently working as a React Native developer for a US-based company that is 🚀 focused on the development and adaptation of digital technology and manifesting it into real-world products for emergency 🚨 and security services 🔒.
 - 💬 Secondary Account - https://github.com/saurabhkumar130
 - 💬 Social Media Handle - srvkmr130 (Instagram, Twitter, LinkedIn, Medium, Discord)
